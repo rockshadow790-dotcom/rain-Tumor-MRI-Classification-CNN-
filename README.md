@@ -1,1 +1,1 @@
-# rain-Tumor-MRI-Classification-CNN-
+# Brain-Tumor-MRI-Classification-CNN-
